@@ -1,0 +1,9 @@
+639
+For NASA, space is still a high priority.
+There arearumors on the internets.
+1 4 16 64 256 1024
+7 a 100
+10 5
+5 115
+3 5 1 6 4 2
+107
